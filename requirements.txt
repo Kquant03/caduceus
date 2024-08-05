@@ -1,0 +1,7 @@
+requests
+pdf2image
+PyPDF2
+tqdm
+matplotlib
+numpy
+plotly
