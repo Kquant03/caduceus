@@ -1,11 +1,10 @@
-<div style="text-align: center;">
+<h1 align="center">The Caduceus Project</h1>
 
-# The Caduceus Project
-
-<img src="https://github.com/user-attachments/assets/ee8237ac-aca4-48b1-ba73-e7f9f1ed257e" alt="Caduceus Project Logo" style="max-width: 300px;">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/344b9243-92cc-4548-9dd9-fef97c136791" alt="Caduceus Project Logo" width="300">
+</p>
 
 The Caduceus Project is an initiative aimed at improving the conversion of complex scientific and medical PDF files to well-structured markdown format. By utilizing the power of OpenAI's GPT-4o model, this project aims to enhance the accessibility and usability of scientific and medical information. The PDF files used were taken from [protocols.io](https://github.com/protocolsio/protocols), an open source repository of medical and scientific protocols.
-</div>
 
 ## Dataset Creation
 
