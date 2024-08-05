@@ -1,6 +1,6 @@
 # The Caduceus Project
 
-The Caduceus Project is an initiative aimed at improving the conversion of complex scientific and medical PDF files to well-structured markdown format. By utilizing the power of OpenAI's GPT-4o model, this project aims to enhance the accessibility and usability of scientific and medical information. The 
+The Caduceus Project is an initiative aimed at improving the conversion of complex scientific and medical PDF files to well-structured markdown format. By utilizing the power of OpenAI's GPT-4o model, this project aims to enhance the accessibility and usability of scientific and medical information. The PDF files used were taken from [protocols.io](https://github.com/protocolsio/protocols), an open source repository of medical and scientific protocols.
 
 ## Dataset Creation
 
