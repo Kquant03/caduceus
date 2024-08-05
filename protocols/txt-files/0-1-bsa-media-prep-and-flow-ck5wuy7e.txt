@@ -1,0 +1,94 @@
+JAN 04, 2023
+0.1% BSA media prep and flow
+Olya Oppenheim
+1
+1
+Max Delbrück Center for Molecular Medicine
+Olya Oppenheim
+DOI:
+dx.doi.org/10.17504/protocol
+s.io.x54v9d7zpg3e/v1
+Protocol
+ 
+Citation
+: 
+Olya
+Oppenheim
+ 
+2023
+. 
+0.1% BSA
+media prep and flow
+.
+protocols.io
+https://dx.doi.org/10.17504/p
+rotocols.io.x54v9d7zpg3e/v1
+License
+: 
+This is an open
+access
+ 
+protocol
+ 
+distributed
+under the terms of
+the
+ 
+Creative Commons
+Attribution License
+,  
+which
+permits unrestricted use,
+distribution, and reproduction
+in any medium, provided the
+original author and source are
+credited
+Protocol status
+: 
+Working
+We use this protocol and it's
+working
+Created
+: 
+Jan 02, 2023
+Last Modified
+: 
+Jan 04, 2023
+PROTOCOL
+ 
+integer ID
+:
+74646
+ABSTRACT
+Fetal Bovine Serum contains traces of ligands of the BMP pathway which affect the flow
+ 
+experiments with the ibidi perfusion system.
+replacing EGM2 with 2% with EGM2 with 0.1% BSA 4h prior to onset of flow (with same media)
+ 
+allows cells to respond better and collectively to flow.
+BSA 0.1% media prep
+1
+50 mL
+ EGM2 without FBS
+667 µL
+ BSA 7.5% solution
+filtrate through 0.22um yellow filter.
+Add to slides 4h before starting flow.
+Optional
+5m
+protocols.io |
+https://dx.doi.org/10.17504/protocols.io.x54v9d7zpg3e/v1
+12
+adding BMP9/10 to flow experiment
+in order to obtain a final 
+0.5 ng/ml
+ , add 1.4ul BMP9/10 of 
+10 ug/ml
+ initial concentration per
+ 
+perfusion unit (volume of 14ml)
+add this to each perfusion unit during slide connection
+ 
+protocols.io |
+https://dx.doi.org/10.17504/protocols.io.x54v9d7zpg3e/v1
+2
