@@ -24,8 +24,6 @@ The dataset is created through the following steps:
 
 This code can be modified in order to convert any type of PDF files to markdown format.
 
-Certainly! Here's an alternative way to write the "Usage" section without using so many backticks, making it easier to read:
-
 ## Usage
 
 To use the Caduceus Project scripts, follow these steps:
